@@ -2,8 +2,8 @@
 
 ##### Steps to Use
 
-1. Double click `build/StreamBaseServer.exe`.
-1. Double click `build/StreamBaseClient.exe`.
+1. Double click `bin/StreamBaseServer.exe`.
+1. Double click `bin/StreamBaseClient.exe`.
 1. Input a datatype in `StreamBaseClient.exe` (e.g. `integer`, `float`, `string`), then input a value (e.g. `1`).
 1. Type `storage`, then type `peek`.
 1. Type `complex`, then type `1,2`.
